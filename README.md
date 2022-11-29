@@ -7,4 +7,4 @@ Source code link: https://pastebin.com/5xH2RqBw
 
 Play the game directly in your Web Browser: 
 
-[<img alt="Play Button" src="" />](https://replit.com/@dimitrov8/GuessANumber?v=1)
+[<img alt="Play Button" src="https://github.com/dimitrov8/GuessANumber/blob/main/playbutton.png" />](https://replit.com/@dimitrov8/GuessANumber?v=1)
